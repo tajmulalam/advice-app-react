@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tajmulalam.github.io/getadvice/static/css/main.96c4622a.chunk.css",
+    "main.js": "/tajmulalam.github.io/getadvice/static/js/main.b57c7d71.chunk.js",
+    "main.js.map": "/tajmulalam.github.io/getadvice/static/js/main.b57c7d71.chunk.js.map",
+    "runtime-main.js": "/tajmulalam.github.io/getadvice/static/js/runtime-main.cbf135c1.js",
+    "runtime-main.js.map": "/tajmulalam.github.io/getadvice/static/js/runtime-main.cbf135c1.js.map",
+    "static/js/2.782e8156.chunk.js": "/tajmulalam.github.io/getadvice/static/js/2.782e8156.chunk.js",
+    "static/js/2.782e8156.chunk.js.map": "/tajmulalam.github.io/getadvice/static/js/2.782e8156.chunk.js.map",
+    "index.html": "/tajmulalam.github.io/getadvice/index.html",
+    "precache-manifest.23b8114a2fa2cbdd7733493bc28da8bd.js": "/tajmulalam.github.io/getadvice/precache-manifest.23b8114a2fa2cbdd7733493bc28da8bd.js",
+    "service-worker.js": "/tajmulalam.github.io/getadvice/service-worker.js",
+    "static/css/main.96c4622a.chunk.css.map": "/tajmulalam.github.io/getadvice/static/css/main.96c4622a.chunk.css.map",
+    "static/js/2.782e8156.chunk.js.LICENSE.txt": "/tajmulalam.github.io/getadvice/static/js/2.782e8156.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/tajmulalam.github.io/getadvice/static/media/city.91c109fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbf135c1.js",
+    "static/js/2.782e8156.chunk.js",
+    "static/css/main.96c4622a.chunk.css",
+    "static/js/main.b57c7d71.chunk.js"
+  ]
+}
