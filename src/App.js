@@ -5,7 +5,9 @@ class App extends React.Component {
   
     render() {
         return (
-            <React.Fragment> <Home/></React.Fragment>
+            <React.Fragment> 
+                <Home /> 
+            </React.Fragment>
             // <Router>
             //     <div className="nav">
             //         <ul>

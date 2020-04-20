@@ -2,7 +2,6 @@ import React from 'react';
 import './Home.css'
 import axios from 'axios'
 
-
 class Home extends React.Component {
     state = { advice: '' };
 
@@ -24,12 +23,18 @@ class Home extends React.Component {
     render() {
         const { advice } = this.state
         return (
+            <>
             <div className="app" >
                 <div className="card">
                     <h1 className="heading">{advice}</h1>
                     <button className="button" onClick={() => this.fetchAdviceAPI()}><span>GIVE ME ADVICE!</span></button>
-                </div>
+                </div> 
+
             </div>
+            <div className="footer">2020@created by Tajmul Alam</div>
+
+            </>
+
         );
 
     }

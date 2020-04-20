@@ -96,6 +96,17 @@
     animation: storm 0.7s ease-in-out both;
     animation-delay: 0.06s;
 }
+.footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+
 @keyframes rotate {
     0% {
       transform: rotate(0deg) translate3d(0, 0, 0);
