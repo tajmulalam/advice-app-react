@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/advice-app-react/static/css/main.e97ba4fa.chunk.css",
-    "main.js": "/advice-app-react/static/js/main.b57c7d71.chunk.js",
-    "main.js.map": "/advice-app-react/static/js/main.b57c7d71.chunk.js.map",
+    "main.css": "/advice-app-react/static/css/main.0ecfd0a9.chunk.css",
+    "main.js": "/advice-app-react/static/js/main.52b43275.chunk.js",
+    "main.js.map": "/advice-app-react/static/js/main.52b43275.chunk.js.map",
     "runtime-main.js": "/advice-app-react/static/js/runtime-main.7dac8998.js",
     "runtime-main.js.map": "/advice-app-react/static/js/runtime-main.7dac8998.js.map",
     "static/js/2.782e8156.chunk.js": "/advice-app-react/static/js/2.782e8156.chunk.js",
     "static/js/2.782e8156.chunk.js.map": "/advice-app-react/static/js/2.782e8156.chunk.js.map",
     "index.html": "/advice-app-react/index.html",
-    "precache-manifest.a85cb7b4b71e8350488ed22e0ceac170.js": "/advice-app-react/precache-manifest.a85cb7b4b71e8350488ed22e0ceac170.js",
+    "precache-manifest.32dc66bd4b578017441f584abf5d25fe.js": "/advice-app-react/precache-manifest.32dc66bd4b578017441f584abf5d25fe.js",
     "service-worker.js": "/advice-app-react/service-worker.js",
-    "static/css/main.e97ba4fa.chunk.css.map": "/advice-app-react/static/css/main.e97ba4fa.chunk.css.map",
+    "static/css/main.0ecfd0a9.chunk.css.map": "/advice-app-react/static/css/main.0ecfd0a9.chunk.css.map",
     "static/js/2.782e8156.chunk.js.LICENSE.txt": "/advice-app-react/static/js/2.782e8156.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/advice-app-react/static/media/city.91c109fc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7dac8998.js",
     "static/js/2.782e8156.chunk.js",
-    "static/css/main.e97ba4fa.chunk.css",
-    "static/js/main.b57c7d71.chunk.js"
+    "static/css/main.0ecfd0a9.chunk.css",
+    "static/js/main.52b43275.chunk.js"
   ]
 }

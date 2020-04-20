@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0a814ada9dbe254d00a04009a8352f4",
+    "revision": "df35988df761895de1470720b26fb930",
     "url": "/advice-app-react/index.html"
   },
   {
-    "revision": "2f2259e9747830ae2846",
-    "url": "/advice-app-react/static/css/main.e97ba4fa.chunk.css"
+    "revision": "14096ccb78fd1c5fe0ac",
+    "url": "/advice-app-react/static/css/main.0ecfd0a9.chunk.css"
   },
   {
     "revision": "4421ee612bde21007ebe",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/advice-app-react/static/js/2.782e8156.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f2259e9747830ae2846",
-    "url": "/advice-app-react/static/js/main.b57c7d71.chunk.js"
+    "revision": "14096ccb78fd1c5fe0ac",
+    "url": "/advice-app-react/static/js/main.52b43275.chunk.js"
   },
   {
     "revision": "e91a3a1dfc3b4cade8df",
